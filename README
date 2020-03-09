@@ -156,7 +156,7 @@ annotations files. The same holds for the order in which they appear.
 
 #------------------------------------------------------------------------------#
 
-6. Filtered benchmark files:
+5. Filtered benchmark files:
 
 The subdirectory ./filtered contains filtered benchmark files:
 
@@ -213,7 +213,7 @@ Corresponding annotation files are provided in the root directory:
 
 #------------------------------------------------------------------------------#
 
-6. Subdirectory ./analysis
+7. Subdirectory ./analysis
 
 Contains lists of best matrices for experiments and genes:
 
@@ -271,3 +271,9 @@ Format of best4gene*txt: tab-delimited file with 4 fields:
 
 Note that a few experiments from ReMap as well as some matrices 
 from JASPAR are linked to multiple genes.  
+
+#------------------------------------------------------------------------------#
+
+8. Supplementary scripts
+Supplementary scripts used to analyse these data are provided in the repository:
+https://github.com/autosome-ru/motif_benchmarking_paper
