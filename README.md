@@ -18,7 +18,7 @@ related to the following benchmarking study:
  - uniprobe2.txt  
  - jaspar.txt
  - hocomoco.txt
- - cispb.txt
+ - cisbp.txt
 
 Format: tab-delimited table
 ```
